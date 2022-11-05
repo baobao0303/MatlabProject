@@ -14,7 +14,7 @@
 
 ###
 
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video" width="480"></iframe></div>
+<img src="https://raw.githubusercontent.com/tho/tho/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
