@@ -12,16 +12,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/tho/tho/blob/output/snake.svg" alt="Snake animation" />
+**Technologies:**
 
-###
+- HTML
+- CSS,SASS  
+- JS (Main)🚀
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
+> ✅ **Feel Free To Fork and Contribute**
