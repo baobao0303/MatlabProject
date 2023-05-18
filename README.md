@@ -14,9 +14,6 @@
 
 
 **Technologies:**
-
-- HTML
-- CSS,SASS  
-- JS (Main)🚀
+- Matlab (Main)🚀
 
 > ✅ **Feel Free To Fork and Contribute**
